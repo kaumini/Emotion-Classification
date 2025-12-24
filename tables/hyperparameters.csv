@@ -1,0 +1,8 @@
+Hyperparameter,Value
+Batch Size,16
+Learning Rate,2e-05
+Epochs,15
+Loss Function,ASL
+Gradient Accumulation,2
+Max Length,128
+Pos Weight Cap,40
