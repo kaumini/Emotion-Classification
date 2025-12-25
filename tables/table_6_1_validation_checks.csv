@@ -1,0 +1,6 @@
+Validation Step,Method,Outcome
+Label parsing,Regex + inspection,Correct
+Label merging,Index mapping check,Correct
+Neutral downsampling,Frequency verification,Correct
+Oversampling,Batch distribution analysis,Correct
+Threshold optimisation,F1 maximisation,Correct
