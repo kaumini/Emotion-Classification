@@ -1,0 +1,4 @@
+Model Configuration,Macro-F1
+Full Model (Merged + ASL),0.107
+Without Label Merging,0.089
+Without Asymmetric Loss (ASL),0.091
